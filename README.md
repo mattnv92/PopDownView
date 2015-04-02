@@ -36,7 +36,7 @@ Here are some extra things you can do to make your nib look pretty
 4. Change Status Bar to "None"
 
 ##Hooking up Nib
-So you've made your view all nice and pretty. So now what?
+So you've made your view all nice and pretty. Now what?
 
 1. Find "File's Owner" in the left menu of your nib file and click it
 2. Navigate to the Identity Inspector (3rd tab on right hand side menu)
@@ -53,5 +53,39 @@ I'm going to give you an example of the intended way to create the object.
     MyPopDownView = PopDownView(frame: CGRect(x: 100, y: 100, width: 100, height:100), withNibNamed: <INSERT NAME OF NIB FILE IN HERE>)
 ```
 
+##Interface
+You want to take a look at the interface eh? Well buckle up big boy (or girl) because you are about to witness one of the *biggest* interfaces ever created...
 
+
+
+You buckled up?
+
+
+You sure?
+
+
+Here.
+
+
+We.
+
+
+Go.
+
+
+###Constructor
+#####init(frame: CGRect, withNibNamed: String)
+
+###Methods
+#####open()
+
+
+In all seriousness, I wanted a super light interface because this is an object I fully intend for you to subclass and expand upon yourself. The initializer is a bit weird because it's a custom initializer, but I think it is a decent approach.  
+
+
+###Feedback
+I know I am not a master of Swift or IOS, so please, if you have any feedback, do not hesistate to shoot me an email! Mattnv92@gmail.com
+
+
+###Enjoy!
 
