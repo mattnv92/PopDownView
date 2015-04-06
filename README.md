@@ -1,6 +1,7 @@
 # PopDownView
 PopDownView is a Swift library used to quickly make simple and elegant pop ups
 
+![Gif](http://zippy.gfycat.com/IllinformedDimBumblebee.gif)
 
 # Getting Started
 1. Download the PopDownView.swift file
@@ -55,23 +56,6 @@ I'm going to give you an example of the intended way to create the object.
 
 ##Interface
 You want to take a look at the interface eh? Well buckle up big boy (or girl) because you are about to witness one of the *biggest* interfaces ever created...
-
-
-
-You buckled up?
-
-
-You sure?
-
-
-Here.
-
-
-We.
-
-
-Go.
-
 
 ###Constructor
 #####init(frame: CGRect, withNibNamed: String)
