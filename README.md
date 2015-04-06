@@ -1,7 +1,7 @@
 # PopDownView
 PopDownView is a Swift library used to quickly make simple and elegant pop ups
 
-![Gif](http://zippy.gfycat.com/IllinformedDimBumblebee.gif)
+![Gif](http://gfycat.com/IllinformedDimBumblebee)
 
 # Getting Started
 1. Download the PopDownView.swift file
