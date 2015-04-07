@@ -32,7 +32,7 @@ Yes, we're going to be using nibs. I know, I know, some of you may be moaning up
 Here are some extra things you can do to make your nib look pretty
 
 1. Click the View inside your nib file
-2. go to the Attributes Insepctor (4th tab on the right hand side menu)
+2. Go to the Attributes Inspector (4th tab on the right hand side menu)
 3. Change Size to "FreeForm"
 4. Change Status Bar to "None"
 
