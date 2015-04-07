@@ -49,7 +49,7 @@ Now that your nib is all hooked up, you're going to need to actually create the 
 
 I'm going to give you an example of the intended way to create the object. 
 
-```
+```swift
     var MyPopDownView: PopDownView?
     MyPopDownView = PopDownView(frame: CGRect(x: 100, y: 100, width: 100, height:100), withNibNamed: <INSERT NAME OF NIB FILE IN HERE>)
 ```
